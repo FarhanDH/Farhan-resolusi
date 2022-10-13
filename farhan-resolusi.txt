@@ -2,4 +2,4 @@ FARHAN RESOLUSI
 - Konsisten untuk belajar pemrograman
 - Nilainya bagus
 - Menguasai github
-- Membuat web
+- Menamatkan freeCodeCamp
