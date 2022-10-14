@@ -1,4 +1,6 @@
 RENCANA WEB FARHAN
 
 - web portfolio
+  * full javascript
 - web jasa service
+  * service ac
