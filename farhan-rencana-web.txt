@@ -6,3 +6,4 @@ RENCANA WEB FARHAN
   * service ac
 - belajar backend
  * node js  
+- belajar framework css
