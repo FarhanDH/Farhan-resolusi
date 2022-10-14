@@ -1,7 +1,8 @@
 RENCANA WEB FARHAN
 
 - web portfolio
-  * full javascript
+  * tanpa javascript
 - web jasa service
   * service ac
 - belajar backend
+ * node js
