@@ -1,4 +1,6 @@
 RENCANA WEB
 
 - Buat web port
+  * pake tailwind
 - main pubg
+  * kill diatas 10
